@@ -75,3 +75,12 @@ class ReadableTextFile:
     def __enter__(self):
         with open(self.filename, mode='r', encoding='utf-8') as file:
             self.lines = file.readline().split('\n')
+            Задание 1: Функция is_context_manager проверяет, является ли объект контекстным менеджером.
+
+Задание 2: Класс SuppressAll подавляет все исключения внутри блока with.
+
+Задание 3: Класс Greeter выводит приветствие и прощание в контекстном менеджере.
+
+Задание 4: Класс Closer автоматически закрывает объект, если у него есть метод close.
+
+Задание 5: Класс ReadableTextFile читает файл и разбивает его на строки.
