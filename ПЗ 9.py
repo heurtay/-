@@ -157,6 +157,10 @@ from abc import ABC, abstractmethod
 #     print(error)
 
 
+Задача 1: Абстрактный класс Middle и его наследники (Average, Median, Harmonic) вычисляют средние значения оценок.
 
+Задача 2: Абстрактный класс ChessPiece и его наследники (King, Knight) проверяют ходы шахматных фигур.
+
+Задача 3: Абстрактный класс Validator и его наследники (Number, String) валидируют данные.
 
 
