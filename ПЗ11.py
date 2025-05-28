@@ -183,3 +183,8 @@ rightparagraph.add('death')
 rightparagraph.add('can have me')
 rightparagraph.add('when it earns me')
 rightparagraph.end()
+Задание 1: Классы USADate и ItalianDate форматируют дату в разных стилях.
+
+Задание 2: Классы MinStat, MaxStat, AverageStat вычисляют минимум, максимум и среднее значение.
+
+Задание 3: Классы LeftParagraph и RightParagraph форматируют текст с выравниванием влево и вправо.
