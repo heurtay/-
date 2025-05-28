@@ -96,3 +96,10 @@ randomlooper = RandomLooper(['red', 'blue', 'green', 'purple'])
 
 print(list(randomlooper))
 print(list(randomlooper))
+Задание 1: Класс Point представляет точку в 3D-пространстве и поддерживает итерацию.
+
+Задание 2: Класс DevelopmentTeam управляет списками junior и senior разработчиков.
+
+Задание 3: Класс AttrsIterator позволяет итерировать по атрибутам объекта.
+
+Задание 4: Класс RandomLooper перемешивает элементы итерируемых объектов.
